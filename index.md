@@ -8,7 +8,7 @@ sidebar: Home
 
 _"Make your statement. Face your fear."_
 
-![Magnus Institute Seal](assets/images/magnus-seal.png)
+![](logo.png)
 
 This site is hopefully intended to help you guys fill out your "Resumes" for **The Magnus Archives TTRPG**. This will, at a later date, be transferred into full character sheets. However we are taking a piecemeal approach for simplicity sake.
 
