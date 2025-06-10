@@ -6,81 +6,78 @@ sidebar: Home
 
 # Welcome to the Magnus Institute Character Builder
 
-_"Archivists die. This is known."_
-
-This site helps players create characters for **The Magnus Archives TTRPG** using a clean, searchable [Just the Docs] interface, themed in **black and green** to evoke the eerie calm of the Archives.
-
-This includes:
-
-- Step-by-step **Character Creation Walkthrough**
-- Segmented access to all **Descriptors**, **Types**, **Foci**, and **Cyphers**
-- In-universe **resume-style format** for immersive play
+_"Make your statement. Face your fear."_
 
 ![Magnus Institute Seal](assets/images/magnus-seal.png)
 
-> Founded in 1818 by Jonah Magnus, the Institute investigates and archives supernatural phenomena, particularly those relating to fear-based manifestations. Its mission is _“To collect, examine, and classify manifestations of the Unnatural, in order to better understand the world in which we live.”_
+This site is hopefully intended to help you guys fill out your "Resumes" for **The Magnus Archives TTRPG**. This will, at a later date, be transferred into full character sheets. However we are taking a piecemeal approach for simplicity sake.
+
 
 ---
 
 ## Getting Started
 
-Follow the steps below to build your character:
-
-### 1. Choose Your Position
-
-Pick one of the following jobs at the Magnus Institute:
-
-- **Archivist** – Investigates statements and organizes records. (History/lit/occult)
-- **Field Researcher** – Explores statement sites and interviews witnesses. (Criminology/journalism)
-- **Containment Specialist** – Handles dangerous objects and threats. (Military/engineering)
-- **Librarian** – Maintains restricted archives. (Library science/records)
-- **Technical Assistant** – AV surveillance and recovery. (Cybersecurity/tech)
-- **Clerical Staff** – Files and transcribes incoming documentation. (Admin/speed typing)
+Follow the steps below in order to be able to fill out your provided character resume:
 
 ### 2. Choose a Type
 
-Select from:
-- [Investigator](/types/#investigator)
-- [Protector](/types/#protector)
-- [Elocutionist](/types/#elocutionist)
-- [Occultist](/types/#occultist)
+visit [Types](/types.html) and after reading your options select from the following:
+- Investigator
+- Protector
+- Elocutionist
+- Occultist
 
-Each Type grants stat bonuses and abilities (see [Types] sidebar).
+Each Type has different base stat distributions and abilities. Write down your character type under the "Character Concept" section of your resume.
+_I am a [Descriptor] ->[Type]<- who [Focus]._
 
 ### 3. Assign Stats
 
 You start with:
 - Effort: 1
-- Edge: 0 in each Pool
-- Add +4 to one Pool based on your Type
+- Edges: Determined by character Type.
+- Stat Pools: Determined by character Type.
 - Assign **6 extra points** among:
   - Might
   - Speed
   - Intellect
+_
+- Ex. stats of an Investigator type
+  - Might: 10
+  - Speed: 9
+  - Intellect 9
+  - Speed edge: 1
+  - Might edge: 0
+  - Intellect edge: 1
+
+- Ex. After 6 extra point distribution
+  - Might: 14 (+4)
+  - Speed: 11 (+2)
+  - Intellect 9
+  - Speed edge: 1
+  - Might edge: 0
+  - Intellect edge: 1 _
+ 
+  Write down your stats in the character resume.
 
 ### 4. Choose a Descriptor
 
-Your Descriptor defines your personality and a bonus skill/stat. See the [Descriptors] sidebar for the full list.
+Your Descriptor defines your personality as well as grants you 1 skill and a stat bonus. See the [Descriptors](/descriptors.html) sidebar in order to make your selection.
+After selecting please apply your stat bonus, note your skill (in the qualifications resume section), and write down your selected descriptor in the character concept resume section.
+_I am a ->[Descriptor]<- [Type] who [Focus]._
+
 
 ### 5. Choose a Focus
 
-This defines your unique talent or mystery. Examples: _Solves Mysteries_, _Helps Their Friends_, _Dabbles in the Forbidden_. See [Foci].
+This defines your unique talent or mystery, we are going to try to not have duplicate Foci, please communicate with the other players what foci you have selected. See [Foci](/foci.html).
+There is quite a bit of information in Foci that will not be relevant until I give you all character sheets, but do select carefully based on its description and offered abilities. After selecting please write down your selected focus in the character concept section of the resume.
+_I am a [Descriptor] [Type] who ->[Focus]<-._
 
 ### 6. Choose 2 Cyphers
 
-Temporary one-use powers that reflect instinct, magic, or momentary clarity. Full list in [Cyphers] section.
+Temporary powers that reflect instinct, supernatural phenomena, or momentary clarity. Each Cypher has a level that determines the strength of the Cypher (often 1d6 or 1d6+X, could make cypher last longer, be more potent etc.) and a specific effect. Full list in [Cyphers](/cyphers.html) section. After selecting your cyphers, please notate them in the Cyphers section of the Qualifcations section on your character resume.
 
 ---
 
-## Navigation
+## Done!
 
-Use the sidebar to jump to:
-
-- [Descriptors](/descriptors)
-- [Types](/types)
-- [Foci](/foci)
-- [Cyphers](/cyphers)
-
----
-
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
+Alright that's more or less it for now! Please submit ur resume to me!
