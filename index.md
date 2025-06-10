@@ -11,6 +11,8 @@ _"Make your statement. Face your fear."_
 ![](logo.png)
 
 This site is hopefully intended to help you guys fill out your "Resumes" for **The Magnus Archives TTRPG**. This will, at a later date, be transferred into full character sheets. However we are taking a piecemeal approach for simplicity sake.
+I’ve limited the rulebook to only the sections you need in order to make it less overwhelming and to try and avoid spoiling plot points. Even the sections I’ve given you have some light spoilers and meta knowledge that your characters simply won’t have (maybe if you choose the occultist type but still). If you think something might be considered meta knowledge please talk to me before you go into the game thinking your character might know it.
+
 
 
 ---
