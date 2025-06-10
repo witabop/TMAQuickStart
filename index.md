@@ -61,7 +61,7 @@ _
 
 ### 4. Choose a Descriptor
 
-Your Descriptor defines your personality as well as grants you 1 skill and a stat bonus. See the [Descriptors](/TMAQuickStart/descriptors.html) sidebar in order to make your selection.
+Your Descriptor defines your personality as well as grants you 1 skill (if you select two skills, you will also need to take an inability. If you do this please talk to me so I can give you the list of inabilities.) and a stat bonus. See the [Descriptors](/TMAQuickStart/descriptors.html) sidebar in order to make your selection.
 After selecting please apply your stat bonus, note your skill (in the qualifications resume section), and write down your selected descriptor in the character concept resume section.
 _I am a ->[Descriptor]<- [Type] who [Focus]._
 
