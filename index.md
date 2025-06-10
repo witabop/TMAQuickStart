@@ -21,7 +21,7 @@ Follow the steps below in order to be able to fill out your provided character r
 
 ### 2. Choose a Type
 
-visit [Types](/types.html) and after reading your options select from the following:
+visit [Types](/TMAQuickStart/types.html) and after reading your options select from the following:
 - Investigator
 - Protector
 - Elocutionist
@@ -61,20 +61,20 @@ _
 
 ### 4. Choose a Descriptor
 
-Your Descriptor defines your personality as well as grants you 1 skill and a stat bonus. See the [Descriptors](/descriptors.html) sidebar in order to make your selection.
+Your Descriptor defines your personality as well as grants you 1 skill and a stat bonus. See the [Descriptors](/TMAQuickStart/descriptors.html) sidebar in order to make your selection.
 After selecting please apply your stat bonus, note your skill (in the qualifications resume section), and write down your selected descriptor in the character concept resume section.
 _I am a ->[Descriptor]<- [Type] who [Focus]._
 
 
 ### 5. Choose a Focus
 
-This defines your unique talent or mystery, we are going to try to not have duplicate Foci, please communicate with the other players what foci you have selected. See [Foci](/foci.html).
+This defines your unique talent or mystery, we are going to try to not have duplicate Foci, please communicate with the other players what foci you have selected. See [Foci](/TMAQuickStart/foci.html).
 There is quite a bit of information in Foci that will not be relevant until I give you all character sheets, but do select carefully based on its description and offered abilities. After selecting please write down your selected focus in the character concept section of the resume.
 _I am a [Descriptor] [Type] who ->[Focus]<-._
 
 ### 6. Choose 2 Cyphers
 
-Temporary powers that reflect instinct, supernatural phenomena, or momentary clarity. Each Cypher has a level that determines the strength of the Cypher (often 1d6 or 1d6+X, could make cypher last longer, be more potent etc.) and a specific effect. Full list in [Cyphers](/cyphers.html) section. After selecting your cyphers, please notate them in the Cyphers section of the Qualifcations section on your character resume.
+Temporary powers that reflect instinct, supernatural phenomena, or momentary clarity. Each Cypher has a level that determines the strength of the Cypher (often 1d6 or 1d6+X, could make cypher last longer, be more potent etc.) and a specific effect. Full list in [Cyphers](/TMAQuickStart/cyphers.html) section. After selecting your cyphers, please notate them in the Cyphers section of the Qualifcations section on your character resume.
 
 ---
 
