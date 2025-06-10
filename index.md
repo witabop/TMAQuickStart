@@ -13,7 +13,7 @@ _"Make your statement. Face your fear."_
 This site is hopefully intended to help you guys fill out your "Resumes" for **The Magnus Archives TTRPG**. This will, at a later date, be transferred into full character sheets. However we are taking a piecemeal approach for simplicity sake.
 I’ve limited the rulebook to only the sections you need in order to make it less overwhelming and to try and avoid spoiling plot points. Even the sections I’ve given you have some light spoilers and meta knowledge that your characters simply won’t have (maybe if you choose the occultist type but still). If you think something might be considered meta knowledge please talk to me before you go into the game thinking your character might know it.
 
-Feel free to also few this [Example Resume](https://docs.google.com/document/d/1snHpjgP5YTR79IViiTZ6rHR8q54Uc19cGqiIeuR8T0Y/edit?usp=sharing) to get an idea of how it should look after you've created it.
+Feel free to also view this [Example Resume](https://docs.google.com/document/d/1snHpjgP5YTR79IViiTZ6rHR8q54Uc19cGqiIeuR8T0Y/edit?usp=sharing) to get an idea of how it should look after you've created it.
 
 
 
@@ -25,7 +25,7 @@ Follow the steps below in order to be able to fill out your provided character r
 
 ### 1. Choose A Position
 
-These positions are mainly to add extra flavor to your character and give them a purpose and only servers to alter roleplay and character interactions. However, if you choose "Head Archivist" you will be endowed with additional responsibilites.
+These positions are mainly to add extra flavor to your character and give them a purpose and really only servers to alter roleplay and character interactions. However, if you choose **Head Archivist** you will be endowed with additional responsibilites.
 Before each session you will record yourself reading a "Statement" after which I will process it and ensure it is ready for our next session. This statement is a first hand account of the paranormal or supernatural. The statement will be written by me and other players on a rotating basis. I will explain how to write statements in further detail later.
 
 ### 2. Choose a Type
