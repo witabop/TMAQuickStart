@@ -1,6 +1,7 @@
 ---
 title: Home
 layout: home
+sidebar: Home
 ---
 
 # Welcome to the Magnus Institute Character Builder
