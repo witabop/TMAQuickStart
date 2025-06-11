@@ -6,7 +6,7 @@ layout: home
 
 # Statement Creation
 
-Statement writing is essential to **TMA TTRPG**. Each person will write a statement in a semi-rotating order. For example, Player 1 will write one session's statement, then Player 2 the next, and so on. Occasionally I will take over statement writing to introduce critical plot threads—but the rotation order will resume unchanged once the I'm done writing those statements.
+Statement writing is essential to **TMA TTRPG**. Each person will write a statement in a semi-rotating order. For example, Player 1 will write one session's statement, then Player 2 the next, and so on. Occasionally I will take over statement writing to introduce critical plot threads, but the rotation order will resume unchanged once the I'm done writing those statements.
 
 ---
 
@@ -87,6 +87,6 @@ Given on 12/10/2002 by Police Constable Wayne Thompson
 >
 > That man? Gone. The boarding house manager said she’d never seen him. But the room at the top of the stairs still smells like smoke and pennies. And every now and then, I still see one of those townsfolk sharpen their gaze... like a predator gazing upon its prey."
 
-> *An initial follow up could not be conductged with Mr. Thompson himself as he was found deceased in his flat 1/15/2003, seemingly torn to shreds in such a violent manner that coroners have ruled out murder, stating "Wounds are far too vicious to have been not been inflicted by a wild animal".*
+> *An initial follow up could not be conducted with Mr. Thompson himself as he was found deceased in his flat 1/15/2003, seemingly torn to shreds in such a violent manner that coroners have ruled out murder, stating "Wounds are far too vicious to have not been inflicted by a rabid beast".*
 
 ---
