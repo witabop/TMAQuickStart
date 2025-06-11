@@ -25,7 +25,7 @@ Follow the steps below in order to be able to fill out your provided character r
 
 ### 1. Choose A Position
 
-These positions are mainly to add extra flavor to your character and give them a purpose and really only servers to alter roleplay and character interactions. However, if you choose **Head Archivist** you will be endowed with additional responsibilites.
+These positions are mainly to add extra flavor to your character and give them a purpose and really only serves to alter roleplay and character interactions. However, if you choose **Head Archivist** you will be endowed with additional responsibilites.
 Before each session you will record yourself reading a "Statement" after which I will process it and ensure it is ready for our next session. This statement is a first hand account of the paranormal or supernatural. The statement will be written by me and other players on a rotating basis. I will explain how to write statements in further detail later.
 
 ### 2. Choose a Type
